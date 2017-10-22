@@ -1,0 +1,19 @@
+version = "1.0.0"
+
+# Product Category
+[category]
+1 = "music"
+2 = "movie"
+3 = "photo"
+4 = "apparel"
+
+# User Status
+[status]
+1 = "guest"
+2 = "general"
+3 = "premium"
+
+# Auth Server
+[server]
+host = "api.example.com"
+port = 443
